@@ -32,7 +32,7 @@ Other Browsers with other add-ons may also work, but not officially supported.
 >
 > [Adult Reader Full](/dist/Manga_OnlineViewer_Adult.min.user.js?raw=1)
 
-#### Official Source: [GitHub](https://github.com/TagoDR/MangaOnlineViewer)
+#### Official Source: [GitHub](https://github.com/rodrigomiquilino/MangaOnlineViewer)
 
 ## Local Files Reader (ZIP, CBZ, CBR..., PNGs, JPGs...)
 
@@ -50,7 +50,7 @@ Download the standalone HTML file from the link below. Open it in your browser t
 
 ## Supported Hentai Sites
 
-> Adult Script available **_only_** on [GitHub](https://github.com/TagoDR/MangaOnlineViewer)
+> Adult Script available **_only_** on [GitHub](https://github.com/rodrigomiquilino/MangaOnlineViewer)
 
 <!-- @echo LIST_HENTAI_SITES -->
 
@@ -191,7 +191,7 @@ bookmarklet.
 ```JS
 javascript:(function() {
   if (unsafeWindow === undefined) unsafeWindow = window;
-  ["<!-- @echo BOOKMARKLET -->", "https://cdn.jsdelivr.net/gh/TagoDR/MangaOnlineViewer@latest/dist/Manga_OnlineViewer.user.min.js"].map(s => document.body.appendChild(document.createElement('script')).src = s)
+  ["<!-- @echo BOOKMARKLET -->", "https://cdn.jsdelivr.net/gh/rodrigomiquilino/MangaOnlineViewer@latest/dist/Manga_OnlineViewer.user.min.js"].map(s => document.body.appendChild(document.createElement('script')).src = s)
 })();
 ```
 
@@ -200,6 +200,6 @@ javascript:(function() {
 ```JS
 javascript:(function() {
   if (unsafeWindow === undefined) unsafeWindow = window;
-  ["<!-- @echo BOOKMARKLET -->", "https://cdn.jsdelivr.net/gh/TagoDR/MangaOnlineViewer@latest/dist/Manga_OnlineViewer_Adult.user.min.js"].map(s => document.body.appendChild(document.createElement('script')).src = s)
+  ["<!-- @echo BOOKMARKLET -->", "https://cdn.jsdelivr.net/gh/rodrigomiquilino/MangaOnlineViewer@latest/dist/Manga_OnlineViewer_Adult.user.min.js"].map(s => document.body.appendChild(document.createElement('script')).src = s)
 })();
 ```

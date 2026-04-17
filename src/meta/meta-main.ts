@@ -12,11 +12,11 @@ export default {
   name: 'Manga OnlineViewer',
   author: 'Tago',
   updateURL:
-    'https://github.com/TagoDR/MangaOnlineViewer/raw/master/dist/Manga_OnlineViewer.meta.js',
+    'https://github.com/rodrigomiquilino/MangaOnlineViewer/raw/master/dist/Manga_OnlineViewer.meta.js',
   downloadURL:
-    'https://github.com/TagoDR/MangaOnlineViewer/raw/master/dist/Manga_OnlineViewer.user.js',
-  supportURL: 'https://github.com/TagoDR/MangaOnlineViewer/issues',
-  namespace: 'https://github.com/TagoDR',
+    'https://github.com/rodrigomiquilino/MangaOnlineViewer/raw/master/dist/Manga_OnlineViewer.user.js',
+  supportURL: 'https://github.com/rodrigomiquilino/MangaOnlineViewer/issues',
+  namespace: 'https://github.com/rodrigomiquilino',
   description: `Shows all pages at once in online view for these sites: ${sites
     .flatMap(s => s.name)
     .map(s => s.trim())

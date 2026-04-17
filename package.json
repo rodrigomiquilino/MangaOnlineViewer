@@ -12,17 +12,17 @@
     "biome": "biome check --fix .",
     "storybook": "storybook dev -p 6006"
   },
-  "author": "TagoDR",
+  "author": "rodrigomiquilino",
   "license": "MIT",
   "type": "module",
   "private": true,
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TagoDR/MangaOnlineViewer.git"
+    "url": "git+https://github.com/rodrigomiquilino/MangaOnlineViewer.git"
   },
   "keywords": ["manga", "reader", "viewer", "online", "loader"],
-  "bugs": "https://github.com/TagoDR/MangaOnlineViewer/issues",
-  "homepage": "https://github.com/TagoDR/MangaOnlineViewer#readme",
+  "bugs": "https://github.com/rodrigomiquilino/MangaOnlineViewer/issues",
+  "homepage": "https://github.com/rodrigomiquilino/MangaOnlineViewer#readme",
   "devDependencies": {
     "@biomejs/biome": "^2.4.11",
     "@storybook/addon-docs": "^10.3.5",

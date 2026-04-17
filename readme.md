@@ -32,7 +32,7 @@ Other Browsers with other add-ons may also work, but not officially supported.
 >
 > [Adult Reader Full](/dist/Manga_OnlineViewer_Adult.min.user.js?raw=1)
 
-#### Official Source: [GitHub](https://github.com/TagoDR/MangaOnlineViewer)
+#### Official Source: [GitHub](https://github.com/rodrigomiquilino/MangaOnlineViewer)
 
 ## Local Files Reader (ZIP, CBZ, CBR..., PNGs, JPGs...)
 
@@ -91,7 +91,7 @@ Download the standalone HTML file from the link below. Open it in your browser t
 
 ## Supported Hentai Sites
 
-> Adult Script available **_only_** on [GitHub](https://github.com/TagoDR/MangaOnlineViewer)
+> Adult Script available **_only_** on [GitHub](https://github.com/rodrigomiquilino/MangaOnlineViewer)
 
 - [BestPornComix](https://www.bestporncomix.com) _[English]_
 - [DoujinMoeNM](https://doujins.com/) _[English]_
@@ -271,7 +271,7 @@ bookmarklet.
 ```JS
 javascript:(function() {
   if (unsafeWindow === undefined) unsafeWindow = window;
-  ["https://cdn.jsdelivr.net/npm/colorjs.io@0.6.1/dist/color.global.min.js", "https://cdnjs.cloudflare.com/ajax/libs/jszip/3.9.1/jszip.min.js", "https://cdnjs.cloudflare.com/ajax/libs/nprogress/0.2.0/nprogress.min.js", "https://cdn.jsdelivr.net/npm/lodash@4.17.23/lodash.min.js", "https://cdn.jsdelivr.net/npm/hotkeys-js@4.0.2/dist/hotkeys-js.min.js", "https://cdn.jsdelivr.net/npm/bowser@2.14.1/bundled.js", "https://cdnjs.cloudflare.com/ajax/libs/blob-util/2.0.2/blob-util.min.js", "https://cdnjs.cloudflare.com/ajax/libs/FileSaver.js/2.0.5/FileSaver.min.js", "https://cdn.jsdelivr.net/gh/TagoDR/MangaOnlineViewer@latest/dist/Manga_OnlineViewer.user.min.js"].map(s => document.body.appendChild(document.createElement('script')).src = s)
+  ["https://cdn.jsdelivr.net/npm/colorjs.io@0.6.1/dist/color.global.min.js", "https://cdnjs.cloudflare.com/ajax/libs/jszip/3.9.1/jszip.min.js", "https://cdnjs.cloudflare.com/ajax/libs/nprogress/0.2.0/nprogress.min.js", "https://cdn.jsdelivr.net/npm/lodash@4.17.23/lodash.min.js", "https://cdn.jsdelivr.net/npm/hotkeys-js@4.0.2/dist/hotkeys-js.min.js", "https://cdn.jsdelivr.net/npm/bowser@2.14.1/bundled.js", "https://cdnjs.cloudflare.com/ajax/libs/blob-util/2.0.2/blob-util.min.js", "https://cdnjs.cloudflare.com/ajax/libs/FileSaver.js/2.0.5/FileSaver.min.js", "https://cdn.jsdelivr.net/gh/rodrigomiquilino/MangaOnlineViewer@latest/dist/Manga_OnlineViewer.user.min.js"].map(s => document.body.appendChild(document.createElement('script')).src = s)
 })();
 ```
 
@@ -280,6 +280,6 @@ javascript:(function() {
 ```JS
 javascript:(function() {
   if (unsafeWindow === undefined) unsafeWindow = window;
-  ["https://cdn.jsdelivr.net/npm/colorjs.io@0.6.1/dist/color.global.min.js", "https://cdnjs.cloudflare.com/ajax/libs/jszip/3.9.1/jszip.min.js", "https://cdnjs.cloudflare.com/ajax/libs/nprogress/0.2.0/nprogress.min.js", "https://cdn.jsdelivr.net/npm/lodash@4.17.23/lodash.min.js", "https://cdn.jsdelivr.net/npm/hotkeys-js@4.0.2/dist/hotkeys-js.min.js", "https://cdn.jsdelivr.net/npm/bowser@2.14.1/bundled.js", "https://cdnjs.cloudflare.com/ajax/libs/blob-util/2.0.2/blob-util.min.js", "https://cdnjs.cloudflare.com/ajax/libs/FileSaver.js/2.0.5/FileSaver.min.js", "https://cdn.jsdelivr.net/gh/TagoDR/MangaOnlineViewer@latest/dist/Manga_OnlineViewer_Adult.user.min.js"].map(s => document.body.appendChild(document.createElement('script')).src = s)
+  ["https://cdn.jsdelivr.net/npm/colorjs.io@0.6.1/dist/color.global.min.js", "https://cdnjs.cloudflare.com/ajax/libs/jszip/3.9.1/jszip.min.js", "https://cdnjs.cloudflare.com/ajax/libs/nprogress/0.2.0/nprogress.min.js", "https://cdn.jsdelivr.net/npm/lodash@4.17.23/lodash.min.js", "https://cdn.jsdelivr.net/npm/hotkeys-js@4.0.2/dist/hotkeys-js.min.js", "https://cdn.jsdelivr.net/npm/bowser@2.14.1/bundled.js", "https://cdnjs.cloudflare.com/ajax/libs/blob-util/2.0.2/blob-util.min.js", "https://cdnjs.cloudflare.com/ajax/libs/FileSaver.js/2.0.5/FileSaver.min.js", "https://cdn.jsdelivr.net/gh/rodrigomiquilino/MangaOnlineViewer@latest/dist/Manga_OnlineViewer_Adult.user.min.js"].map(s => document.body.appendChild(document.createElement('script')).src = s)
 })();
 ```

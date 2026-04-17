@@ -13,8 +13,8 @@ const sites = [...main, ...adult];
  */
 export default {
   name: 'Manga OnlineViewer Dev',
-  author: 'TagoDR',
-  namespace: 'https://github.com/TagoDR',
+  author: 'rodrigomiquilino',
+  namespace: 'https://github.com/rodrigomiquilino',
   description: 'Shows all pages at once in online view for sites',
   version: new Date()
     .toISOString()
