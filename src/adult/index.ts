@@ -31,6 +31,7 @@ import porncomicshd from './porncomicshd';
 import pururin from './pururin';
 import schalenetwork from './schalenetwork';
 import simplyhentai from './simplyhentai';
+import tiamanhwa from './tiamanhwa';
 import tmohhentai from './tmohentai';
 import tsumino from './tsumino';
 import vercomicsporno from './vercomicsporno';
@@ -78,6 +79,7 @@ const sites: ISite[] = [
   xlecxone,
   xyzcomics,
   yabai,
+  tiamanhwa,
   madarawp, // Must be at the end because is a generic check
 ];
 export default sites;

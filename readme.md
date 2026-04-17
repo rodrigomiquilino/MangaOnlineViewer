@@ -126,6 +126,7 @@ Download the standalone HTML file from the link below. Open it in your browser t
 - [Madara WordPress Plugin](#) / [AllPornComic](https://allporncomic.com/) / [Manytoon](https://manytoon.com/) / [Manga District](https://mangadistrict.com/) _[English]_ **Obs: Any Site that uses Madara WordPress Plugin**
 - [wnacg](https://wnacg.com/) _[English,Raw,Chinese]_
 - [KingComix](https://kingcomix.com/) / [Chochox](https://chochox.com/porno/) / [Comics18](https://comics18.org/) _[English,Spanish]_
+- [Tia Manhwa](https://tiamanhwa.com) _[Portuguese]_ **Obs: Any Site that uses Madara WordPress Plugin**
 - [AkumaMoe](https://akuma.moe) _[Raw]_
 - [Dragon Translation](https://dragontranslation.net/es) _[Spanish]_
 - [GNTAI.net](https://www.gntai.net/) _[Spanish]_
